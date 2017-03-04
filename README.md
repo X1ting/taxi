@@ -3,6 +3,7 @@
 redis-server
 
 node 7.6.0
+MongoDB
 ## Guide
 `npm install`
 
